@@ -1,0 +1,33 @@
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#one {
+	width:10em; border: 5px blue solid;
+	position: absolute;  top: 222px; right:522px;
+}
+
+#two {
+	width:10em;  border: 5px green solid;
+	position: absolute;  right:522px;
+    
+}
+
+#three{
+	width:10em;  border: 5px #e67300 solid;
+	position: absolute;   
+}
+
+#four{
+	width:10em;  border: 5px yellow solid;
+	position: absolute;  top: 250px; 
+    
+}
+#link a {
+	background-color: blue;
+	color: white;
+	text-decoration: none;
+	position: absolute; 
+	top: 5px; left:391px;
+}
